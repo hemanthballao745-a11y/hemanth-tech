@@ -1,0 +1,6 @@
+{
+  "name": "DMGT AI Study Assistant",
+  "description": "Discrete Mathematics and Graph Theory (R23) study assistant with step-by-step solutions, formula bank, quizzes, AI explanations, and interactive graph visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
